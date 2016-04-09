@@ -3,6 +3,8 @@ package com.example.hobbyhunt.hobbyhunt;
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
+import com.firebase.client.Firebase;
+
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
